@@ -7,8 +7,8 @@ import whisper
 import warnings
 import sys
 
-token = 'YwjAGTBBcO7l-0oWlhijW3x91R5OaURA-7M3juLKhxAxhbu_suoGXeRmzD4tYPZ3dJvnXg.'
-tokents = 'sidts-CjIBPu3jIT0ZXj75RTXnj3lxGq_lqVtRW4mWfE9DKbmt91L8AZvY_6nRXpH3M-oV0v8cFBAA'
+token = 'Enter Token'
+tokents = 'Enter Tokents'
 Chatbot = Chatbot(token,tokents)
 r = sr.Recognizer()
 
